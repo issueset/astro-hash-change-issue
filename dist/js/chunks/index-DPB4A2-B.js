@@ -5,7 +5,7 @@ import {
   D as Declaration,
   c as addClassName$1,
   s as setInlineStyle$1,
-} from "./Code-BMXRRrVO.js";
+} from "./Code-CQ3xdqgb.js";
 import {
   $ as requireCssesc,
   a0 as getDefaultExportFromCjs,
