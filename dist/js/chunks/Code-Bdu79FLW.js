@@ -31342,7 +31342,7 @@ async function createRenderer() {
     ecIntegrationOptions = {},
   } = await import("./config-DaLVujaj.js");
   const { createAstroRenderer, mergeEcConfigOptions } =
-    await import("./index-BwmXc9fq.js");
+    await import("./index-CxWCm9Iv.js");
   if (typeof mergeEcConfigOptions !== "function") {
     throw new Error(
       `You are trying to use Expressive Code's \`<Code>\` component, but the Expressive Code
@@ -31379,7 +31379,7 @@ async function createRenderer() {
   );
   try {
     const { default: preprocessEcConfig } =
-      await import("./preprocess-config-BX5JOY6o.js");
+      await import("./preprocess-config-CY67fkLn.js");
     mergedEcConfig =
       (await preprocessEcConfig({ ecConfig: mergedEcConfig, astroConfig })) ||
       mergedEcConfig;

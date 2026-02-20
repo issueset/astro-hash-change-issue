@@ -4,7 +4,7 @@ import {
   q as isRemotePath,
   V as VALID_SUPPORTED_FORMATS,
   t as DEFAULT_HASH_PROPS,
-} from "./translations-pRSPjO9b.js";
+} from "./translations-CXRi_zs6.js";
 import {
   A as AstroError,
   I as ExpectedImage,
@@ -1601,7 +1601,7 @@ async function getConfiguredImageService() {
   if (!globalThis?.astroAsset?.imageService) {
     const { default: service } = await import(
       // @ts-expect-error
-      "./sharp-n594RDUN.js"
+      "./sharp-BWbMlooS.js"
     ).catch((e) => {
       const error = new AstroError(InvalidImageService);
       error.cause = e;

@@ -5,7 +5,7 @@ import {
   a as ExpressiveCodeEngine,
   p as pluginTextMarkers,
   b as pluginFrames,
-} from "./index-BYoFEutU.js";
+} from "./index-CCdWY2JD.js";
 export {
   A as AnnotationRenderPhaseOrder,
   c as ExpressiveCodeAnnotation,
@@ -39,8 +39,8 @@ export {
   F as stableStringify,
   G as toHexColor,
   H as validateExpressiveCodeAnnotation,
-} from "./index-BYoFEutU.js";
-import { t as toHtml } from "./Code-BNv8qmd8.js";
+} from "./index-CCdWY2JD.js";
+import { t as toHtml } from "./Code-Bdu79FLW.js";
 
 let ShikiError$1 = class ShikiError extends Error {
   constructor(message) {
