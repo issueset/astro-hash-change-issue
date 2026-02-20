@@ -1,1 +1,1 @@
-import "./astro/server-DWYvtS63.js";
+import './astro/server-DWYvtS63.js';

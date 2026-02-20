@@ -40,14 +40,14 @@ import {
   m as getEntry,
   u as useTranslations,
   n as renderEntry,
-} from "./translations-CksCqJNA.js";
+} from "./translations-BoUVlNpK.js";
 import { p as printHref } from "./index.dea3b5e8-BxGIT0nF.js";
 import {
   $ as $$Icon,
   a as $$LinkButton,
   b as $$Badge,
-} from "./Code-DzXl0Rsc.js";
-import { $ as $$Image } from "./_astro_assets-BDB9UoIU.js";
+} from "./Code-BMXRRrVO.js";
+import { $ as $$Image } from "./_astro_assets-BrHcXheo.js";
 
 const $$Astro$t = createAstro();
 const $$Banner = createComponent(

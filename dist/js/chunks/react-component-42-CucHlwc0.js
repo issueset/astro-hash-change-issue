@@ -1,4 +1,4 @@
-import { jsx } from "react/jsx-runtime";
+import { jsx } from 'react/jsx-runtime';
 
 function ReactComponent42() {
   return /* @__PURE__ */ jsx("div", { children: "React Component 42" });
