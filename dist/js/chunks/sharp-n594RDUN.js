@@ -5,7 +5,7 @@ import {
 import {
   b as baseService,
   p as parseQuality,
-} from "./_astro_assets-DXdJxhDJ.js";
+} from "./_astro_assets-KUs3uD0b.js";
 
 let sharp;
 const qualityTable = {

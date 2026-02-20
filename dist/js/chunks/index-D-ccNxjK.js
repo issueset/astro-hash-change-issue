@@ -3,7 +3,7 @@ import {
   h as Fragment,
   a2 as __astro_tag_component__,
 } from "./astro/server-DWYvtS63.js";
-import { d as $$CardGrid, e as $$Card } from "./Code-BhEl8stg.js";
+import { d as $$CardGrid, e as $$Card } from "./Code-BNv8qmd8.js";
 
 const frontmatter = {
   title: "Welcome to Starlight",
